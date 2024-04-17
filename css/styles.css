@@ -1,0 +1,22 @@
+nav{
+    flex-direction: row;
+    justify-content: flex-start;
+
+}
+
+header{
+    justify-content: space-evenly;
+    align-content: space-between;
+}
+
+main{
+    justify-content: space-evenly;
+    align-content: space-between;
+}
+
+footer{
+    flex: content;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: auto;
+}
